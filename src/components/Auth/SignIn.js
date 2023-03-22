@@ -3,6 +3,8 @@ function SignIn(props) {
     <div>
       <div>
         <input />
+        <button>SignIn</button>
+        <button>Register</button>
       </div>
     </div>
   );
